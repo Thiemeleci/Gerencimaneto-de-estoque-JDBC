@@ -2,7 +2,8 @@
 
 Uma aplicação desktop para gestão de inventário, desenvolvida em Java. O projeto utiliza **JavaFX** para a interface gráfica e **SQLite** para persistência de dados, seguindo rigorosamente o padrão de projeto **DAO (Data Access Object)**.
 
-![img_3.png](img_3.png)
+<img width="798" height="625" alt="image" src="https://github.com/user-attachments/assets/7a3217cd-13d9-4064-a6d4-e3a4a4f6bc6d" />
+
 
 ## Funcionalidades
 
